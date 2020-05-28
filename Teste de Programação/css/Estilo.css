@@ -1,0 +1,29 @@
+.Inter{
+
+	position: relative;
+	left: 25%;
+	top: 10px;
+	width: 50%;
+	height: 30%;
+}
+input{
+	border-radius: 4px;
+}
+
+.CPF{
+	float: left;
+	padding: 0px 20px 0px 0px;
+}
+
+.Nome{
+	width: 100%;
+}
+
+.BT{
+	background-color: #555555;
+	width: 100%;
+}
+
+.H1{
+	background-color: aquamarine;
+}
